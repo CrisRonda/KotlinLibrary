@@ -13,7 +13,7 @@ open class ToolbarActivity : AppCompatActivity(), com.example.mylibrary.IToolbar
     override fun enableHomeDisplay(value: Boolean) {
         actionBar?.setDisplayHomeAsUpEnabled(value)
     }
-
-
+    fun hola(){
+    }
 }
 
